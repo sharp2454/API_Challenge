@@ -124,6 +124,7 @@ As final considerations:
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
 =======
 # API_Challenge
+<<<<<<< HEAD
 In this example, you'll be creating a Python script to visualize the weather of 500+ cities across the world of varying distance from the equator. To accomplish this, you'll be utilizing a simple Python library, the OpenWeatherMap API, and a little common sense to create a representative model of weather across world cities.
 The first requirement is to create a series of scatter plots to showcase the following relationships:
 
@@ -152,3 +153,5 @@ Perform a weather check on each of the cities using a series of successive API c
 Include a print log of each city as it's being processed with the city number and city name.
 Save a CSV of all retrieved data and a PNG image for each scatter plot.
 >>>>>>> e58e06514b25e11dd43cce84c34376e3fc09f06e
+=======
+>>>>>>> ed8e966c7e28579ff86f6c73e5e66c58922f6d9d
